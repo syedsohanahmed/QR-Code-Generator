@@ -1,4 +1,4 @@
-# fluttermasterwindows
+# QR Code Generator Windows Software
 
 A new Flutter application.
 
