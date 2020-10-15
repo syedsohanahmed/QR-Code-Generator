@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+## Download the exe file
+
+[QR Code Generator.zip](https://github.com/syedsohanahmed/QR-Code-Generator/files/5384605/QR.Code.Generator.zip)
+
+
 ## Getting Started
 
 ![Capture](https://user-images.githubusercontent.com/21335270/96027161-508a3a80-0e79-11eb-8c67-805cc3bfd4dd.PNG)
